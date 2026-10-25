@@ -37,10 +37,10 @@ struct Oceadra {
 
 I design **real-time intelligent systems** and connect them to real hardware. I like learning from the ground up (C++, data structures, how systems behave behind the scenes), asking *"why?"*, and thinking outside the box when the box feels too small.
 
-- 🚁 **Tech Lead @ Djayanta UAV Team:** network config & stable real-time UAV ↔ ground-station communication
+- 🚁 **Tech Lead @ Djayanta UAV Team:** network config - stable real-time UAV - Computer Vision real-time ↔ ground-station communication
 - 🔭 **Building:** HCI hand-landmark system and a water-disaster victim detection prototype
 - 🎤 **Public speaking:** awarded *The Best Student* in the HMIF Public Speaking Training (2024)
-- 🌏 **International Delegate**, iFUTURE 2026 Young Future Leaders Summit @ WTC Kuala Lumpur
+- 🌏 **International Delegate**, iFUTURE 2026 Young Future Leaders Summit @ WTC Kuala Lumpur (2026)
 - 📝 **Research:** paper on a digital-image-processing based water-disaster victim detection system, submitted to JuTISI (Oct 2026)
 - 🦈 **Fun fact:** huge soft spot for shark-themed anime characters
 
