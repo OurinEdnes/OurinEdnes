@@ -37,7 +37,7 @@ struct Oceadra {
 
 I design **real-time intelligent systems** and connect them to real hardware. I like learning from the ground up (C++, data structures, how systems behave behind the scenes), asking *"why?"*, and thinking outside the box when the box feels too small.
 
-- 🚁 **Tech Lead @ Djayanta UAV Team:** network config & stable real-time UAV ↔ ground-station communication
+- 🚁 **Tech Lead @ Djayanta UAV Team:** network config - stable real-time UAV - Computer Vision real-time (Yolo and Hailo) ↔ ground-station communication
 - 🔥 **Samsung Innovation Campus:** building an IoT early-warning system for forest fires (ESP32 + multi-sensor + MQTT)
 - 🤖 **R&D Team Member @ UMPBOT**
 - 💼 **6-month internship** in Data & CS
