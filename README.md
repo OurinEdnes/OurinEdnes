@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=OCEADRA_SYS%20%F0%9F%A6%88&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20IoT%20%C2%B7%20UAV%20%C2%B7%20Software%20Engineering&descSize=18&descAlignY=58" alt="header" />
 
 <a href="https://ourinednes.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Informatics+Student+%7C+Tech+Lead+%40+Djayanta+UAV;Computer+Vision+%26+Hardware+Integration;C%2B%2B+%7C+Java+%7C+Python+%7C+YOLO+%7C+OpenCV;Small+shark%2C+big+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Informatics+Student+%7C;Computer+Vision+%26+Hardware+Integration;C%2B%2B+%7C+Java+%7C+Python+%7C+YOLO+%7C+OpenCV;Small+shark%2C+big+curiosity" alt="Typing SVG" />
 </a>
 
 <br/><br/>
