@@ -1,17 +1,20 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Oceadra%20%F0%9F%A6%88&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Small%20shark%2C%20big%20curiosity&descSize=20&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=OCEADRA_SYS%20%F0%9F%A6%88&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20IoT%20%C2%B7%20UAV%20%C2%B7%20Software%20Engineering&descSize=18&descAlignY=58" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=C%2B%2B+%7C+Data+Structures+%7C+Systems;Robotics+%26+UAV+Developer;Web+%26+Backend+Explorer;Breaking+things+(responsibly)+to+learn+them" alt="Typing SVG" />
+<a href="https://ourinednes.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Informatics+Student+%7C+Tech+Lead+%40+Djayanta+UAV;Computer+Vision+%26+Hardware+Integration;C%2B%2B+%7C+Java+%7C+Python+%7C+YOLO+%7C+OpenCV;Small+shark%2C+big+curiosity" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OurinEdnes&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/OurinEdnes?style=for-the-badge&logo=github&color=203a43)
-![Repos](https://img.shields.io/badge/Repos-19-2c5364?style=for-the-badge&logo=github)
+[![Portfolio](https://img.shields.io/badge/🌊_Portfolio-ourinednes.github.io-0e75b6?style=for-the-badge)](https://ourinednes.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_decadanza-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_decadanza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banu-najieh-al-fadhil-5249b8325/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OurinEdnes&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/OurinEdnes?style=flat-square&logo=github&color=203a43)
 
 </div>
 
@@ -23,18 +26,22 @@
 #include <shark.h>
 
 struct Oceadra {
-    string role       = "Programming Student @ Universitas Ahmad Dahlan";
-    string location   = "Yogyakarta, Indonesia 🇮🇩";
-    string focus[3]   = {"C++ & Data Structures", "Robotics & UAV", "Web & Backend"};
+    string role       = "Informatics Student @ Universitas Ahmad Dahlan";
+    string exchange   = "AIMS Exchange Scholar @ UMPSA, Malaysia 🇲🇾 (Fall 2026)";
+    string location   = "Yogyakarta, ID 🇮🇩 x Pekan, MY";
+    string specialty[3] = {"Computer Vision", "Hardware Integration (IoT/UAV)", "Software Engineering"};
     string philosophy = "Good tech isn't just code that runs, but code that makes sense.";
     bool   breaksThingsToLearn = true; // responsibly, of course 😌
 };
 ```
 
-- 🔭 **Currently building:** autonomous systems: communication, control logic, and UAV software
-- 🌱 **Currently learning:** backend architecture, system design, and how software behaves *behind the scenes*
-- 🎯 **Goal:** use software to solve real problems in campus and organizational environments
-- 🤔 **Mindset:** always ask *"why?"*, and think outside the box when the box feels too small
+I design **real-time intelligent systems** and connect them to real hardware. I like learning from the ground up (C++, data structures, how systems behave behind the scenes), asking *"why?"*, and thinking outside the box when the box feels too small.
+
+- 🚁 **Tech Lead @ Djayanta UAV Team:** network config & stable real-time UAV ↔ ground-station communication
+- 🔭 **Building:** HCI hand-landmark system and a water-disaster victim detection prototype
+- 🎤 **Public speaking:** awarded *The Best Student* in the HMIF Public Speaking Training (2024)
+- 🌏 **International Delegate**, iFUTURE 2026 Young Future Leaders Summit @ WTC Kuala Lumpur
+- 📝 **Research:** paper on a digital-image-processing based water-disaster victim detection system, submitted to JuTISI (Oct 2026)
 - 🦈 **Fun fact:** huge soft spot for shark-themed anime characters
 
 ---
@@ -46,63 +53,101 @@ struct Oceadra {
     <td width="50%" valign="top">
       <h3>🚁 <a href="https://github.com/OurinEdnes/A.R.C.S">A.R.C.S</a></h3>
       <b>Aerial Rescue & Color Search System</b><br/>
-      A UAV-oriented search system that detects targets by color to support aerial rescue.<br/><br/>
+      Java prototype for search-and-rescue: HSV color detection and real-time object tracking on simulated camera input.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Robotics-UAV-0e75b6?style=flat-square" />
+      <img src="https://img.shields.io/badge/HSV-Tracking-0e75b6?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/OurinEdnes/-Warehouse-management-application">Warehouse Management</a></h3>
-      <b>Hybrid data structure implementation</b><br/>
-      Optimizes inventory, tracking, and order processing using Array, Stack, Queue, Linked List, and Tree.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/Data%20Structures-203a43?style=flat-square" />
+      <h3>✋ HCI Hand-Landmark System</h3>
+      <b>Gesture-based human-computer interaction</b><br/>
+      MediaPipe hand-landmark detection for cursor control and a virtual keyboard.<br/><br/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-203a43?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/OurinEdnes/Dactyl-Ai">Dactyl-AI</a></h3>
-      <b>Web-based AI project</b><br/>
-      <!-- TODO: isi 1 kalimat tentang apa yang dilakukan project ini -->
-      Short description here.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <h3>⌨️ TypeShark</h3>
+      <b>Distraction-free typing tutor</b><br/>
+      Desktop app built with Electron with real-time WPM and accuracy tracking.<br/><br/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3>🦈 <a href="https://github.com/OurinEdnes/finance-shark-bot">Finance Shark Bot</a></h3>
-      <b>Finance helper bot</b><br/>
-      <!-- TODO: isi 1 kalimat tentang apa yang dilakukan bot ini -->
-      Short description here.<br/><br/>
+      <h3>🦈 <a href="https://github.com/OurinEdnes/finance-shark-bot">Finance Shark AI</a></h3>
+      <b>AI assistant bot</b><br/>
+      Monitors, analyzes, and sends automated notifications about management data.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/OurinEdnes/-Warehouse-management-application">Warehouse Manager</a></h3>
+      <b>Hybrid data structure implementation</b><br/>
+      Inventory, tracking, and order processing using Array, Stack, Queue, Linked List, and Tree.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪐 3D Solar System</h3>
+      <b>Computer graphics simulation</b><br/>
+      3D simulation of the solar system and galaxy motion with C++ and OpenGL.<br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+
+**[🌊 See all projects, screenshots & combat records on my portfolio →](https://ourinednes.github.io/)**
+
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Arsenal
 
-**Languages**<br/>
+**Programming & AI**<br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Flask)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLOv8_/_v11-111F68?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-**Databases**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Hardware & Comms**<br/>
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-1F2937?style=for-the-badge)
+![ExpressLRS](https://img.shields.io/badge/ExpressLRS-C62828?style=for-the-badge)
+![GStreamer](https://img.shields.io/badge/GStreamer-2C5364?style=for-the-badge)
+
+**Database**<br/>
+![MySQL](https://img.shields.io/badge/MariaDB_/_SQL-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud & Infra**<br/>
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Tools & Creative**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Design, Networking & Management**<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A53?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![UML](https://img.shields.io/badge/Astah_UML-4A90D9?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🎓 Education & Achievements
+
+| | |
+|---|---|
+| 🇲🇾 **UMPSA**: AIMS Exchange Scholar | Bachelor of Computer Science (Software Engineering) · Fall 2026 |
+| 🇮🇩 **Universitas Ahmad Dahlan** | Informatics |
+| 🏆 **The Best Student** | HMIF Public Speaking Training · 2024 |
+| 🌏 **International Delegate** | iFUTURE 2026 Young Future Leaders Summit, WTC Kuala Lumpur |
+| 📝 **Researcher / Author** | Submitted to JuTISI · Oct 2026 |
 
 ---
 
@@ -110,25 +155,14 @@ struct Oceadra {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OurinEdnes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=OurinEdnes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OurinEdnes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=OurinEdnes&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OurinEdnes&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
 
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_decadanza/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banu-najieh-al-fadhil-5249b8325/)
-
-<br/>
+<br/><br/>
 
 *"Swim through the code, don't just float on it."* 🦈
 
