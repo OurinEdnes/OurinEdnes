@@ -37,12 +37,48 @@ struct Oceadra {
 
 I design **real-time intelligent systems** and connect them to real hardware. I like learning from the ground up (C++, data structures, how systems behave behind the scenes), asking *"why?"*, and thinking outside the box when the box feels too small.
 
-- 🚁 **Tech Lead @ Djayanta UAV Team:** network config - stable real-time UAV - Computer Vision real-time ↔ ground-station communication
+- 🚁 **Tech Lead @ Djayanta UAV Team:** network config & stable real-time UAV ↔ ground-station communication
+- 🔥 **Samsung Innovation Campus:** building an IoT early-warning system for forest fires (ESP32 + multi-sensor + MQTT)
+- 🤖 **R&D Team Member @ UMPBOT**
+- 💼 **6-month internship** in Data & CS
 - 🔭 **Building:** HCI hand-landmark system and a water-disaster victim detection prototype
 - 🎤 **Public speaking:** awarded *The Best Student* in the HMIF Public Speaking Training (2024)
-- 🌏 **International Delegate**, iFUTURE 2026 Young Future Leaders Summit @ WTC Kuala Lumpur (2026)
+- 🌏 **International Delegate**, iFUTURE 2026 Young Future Leaders Summit @ WTC Kuala Lumpur
 - 📝 **Research:** paper on a digital-image-processing based water-disaster victim detection system, submitted to JuTISI (Oct 2026)
 - 🦈 **Fun fact:** huge soft spot for shark-themed anime characters
+
+---
+
+## 🔥 Spotlight: Forest Fire Early Warning System
+
+> **Samsung Innovation Campus (IoT)** · Team of 4 · Prototype simulated in Wokwi
+
+Forest and peatland fires (*karhutla*) keep recurring in Indonesia. Peat fires can smolder underground for months, and satellite imagery or manual patrols often detect them too late. Existing IoT prototypes usually rely on a single short-range flame sensor, which causes inaccurate alarms. This project focuses on **detecting the trigger conditions and the earliest signs of burning, before the fire grows.**
+
+| | |
+|---|---|
+| 🧠 **Controller** | ESP32 with ADC calibration and multivariate rule-based risk logic |
+| 🌡️ **Sensors** | DHT22 (air temperature & humidity) · capacitive soil moisture · MQ-2 (gas/smoke) |
+| 🚦 **Risk levels** | `Normal` → `Warning` → `Danger` |
+| 🔔 **Local alert** | LED + buzzer on site |
+| ☁️ **Remote monitoring** | MQTT (HiveMQ Cloud, TLS) → Python dashboard |
+| 🧪 **Prototype** | Wokwi simulation, low-cost components |
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
+<img src="https://img.shields.io/badge/Wokwi-simulation-1F6FEB?style=flat-square" />
+
+---
+
+## 💼 Experience
+
+| Role | Where | Period |
+|---|---|---|
+| **Tech Lead**: UAV network & communication | Djayanta UAV Team | 2025 |
+| **R&D Team Member** | UMPBOT | Present |
+| **Intern**: Data & CS | <!-- TODO: nama perusahaan --> | 6 months |
 
 ---
 
@@ -123,6 +159,9 @@ I design **real-time intelligent systems** and connect them to real hardware. I 
 ![LoRa](https://img.shields.io/badge/LoRa-1F2937?style=for-the-badge)
 ![ExpressLRS](https://img.shields.io/badge/ExpressLRS-C62828?style=for-the-badge)
 ![GStreamer](https://img.shields.io/badge/GStreamer-2C5364?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT_/_HiveMQ-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-1F6FEB?style=for-the-badge)
 
 **Database**<br/>
 ![MySQL](https://img.shields.io/badge/MariaDB_/_SQL-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -148,6 +187,17 @@ I design **real-time intelligent systems** and connect them to real hardware. I 
 | 🏆 **The Best Student** | HMIF Public Speaking Training · 2024 |
 | 🌏 **International Delegate** | iFUTURE 2026 Young Future Leaders Summit, WTC Kuala Lumpur |
 | 📝 **Researcher / Author** | Submitted to JuTISI · Oct 2026 |
+
+### 📜 Certifications & Training
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| **Gemini Certified Student (University)** | Google for Education | Oct 2026 (valid to 2029) |
+| **Public Speaking Training**: *Dare To Speak To Get Attention* | B1GFAIR "RISE", Yogyakarta | Jan 2025 |
+| **International Youth Goals**: Singapore, Malaysia & Thailand, Batch #2 (online selection program) | B1GFAIR x Olpedia Education Center | Apr 2025 |
+| **National Seminar: Personal Branding** | B1GFAIR "RISE" x BEM FMIPA UNY | Jan 2025 |
+| **National Seminar: Content Creator** | B1GFAIR "RISE" | Jan 2025 |
+| **National Seminar: Mahasiswa Prestasi** | B1GFAIR "RISE" | Jan 2025 |
 
 ---
 
